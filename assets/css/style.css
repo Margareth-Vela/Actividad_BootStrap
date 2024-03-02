@@ -1,0 +1,24 @@
+.footer_style{
+    text-align: center;
+    color: #707070;
+}
+
+.icon_style{
+    height: 20px;
+    width: 100%;
+}
+
+.icon_footer_style{
+    height: 20px;
+}
+.title_card{
+    color: #212527;
+}
+
+.sub_card{
+    color: #707070;
+}
+
+.price{
+    color: #28A745;
+}
